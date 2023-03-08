@@ -1,2 +1,2 @@
-# site-pousada-secreta
-Website para uma Pousada, apenas HTML e CSS.
+# Website para uma Pousada
+Apenas HTML e CSS.
